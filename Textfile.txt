@@ -1,0 +1,4 @@
+Most of the time, it's better to convert a Publisher file to another more universal format. There are several methods you can use to create a shareable Publisher file. PDF is always a great choice but prior to Publisher 2010, there is no built-in PDF export in Microsoft Publisher.
+
+
+When the content, rather than the layout, is of primary importance (and no graphics are needed), the best way to exchange information is as plain ASCII text. But when you want to include graphics and wish to preserve your layout, plain text won't do.
